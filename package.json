@@ -15,11 +15,11 @@
     "@wdio/mocha-framework": "^5.2.8",
     "@wdio/sync": "^5.2.8",
     "wdio-trueautomation-service": "^0.3.3",
-    "webdriverio": "^4.14.0",
     "trueautomation-helper": "^0.3.0",
     "wdio-mocha-framework": "^0.6.4"
   },
   "dependencies": {
-    "trueautomation-helper": "^0.3.1"
+    "trueautomation-helper": "^0.3.1",
+    "webdriverio": "^5.3.0"
   }
 }
