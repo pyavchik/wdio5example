@@ -1,0 +1,5 @@
+node_modules/
+.idea/vcs.xml
+.idea/
+local.log
+package-lock.json
